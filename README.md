@@ -57,7 +57,6 @@ EDA/
 Each folder contains:
 - `*.ipynb` notebook
 - `data/` folder with CSV
-- `images/` for saved visualizations
 - `README.md` with project-specific details
 
 
